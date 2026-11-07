@@ -1,0 +1,11 @@
+{
+  "name": "fiqh-ts-sawm-kaffarah-calc",
+  "version": "1.0.0",
+  "description": "Ramadan Sawm Qada, Fidyah & Kaffarah Obligation Resolver (محرك أحكام الصيام والفدية والكفارات وقضاء الأيام)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
